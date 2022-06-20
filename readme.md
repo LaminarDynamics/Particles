@@ -19,6 +19,7 @@ Pygame is required
 # Screenshots
 
 Users can select if vectors are displayed (show_vectors) or to allow collisions by changing the boolean in the code like a neanderthal
+
 ![image](user_options.png)
 
 ----------------------------------------------------------------
