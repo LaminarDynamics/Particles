@@ -4,7 +4,7 @@ This is an attempt to simulate the motion of particles (Or planets if you will) 
 
 In the demo there is a central "mass" that is circled by n number of particles. These particles are all attracted to the central mass as planets would be attracted to the sun. Since I couldn't figure out how to get the astrophysics math to work right, the particles follow a basic set of rules that in the end somewhat mimics a real orbital system. 
 
-There are several lines (Vectors) that are drawn off the particles. They are: 
+If selected, there are several lines (Vectors) that are drawn off the particles. They are: 
 
 * The force of gravity pulling toward the central mass.
 * The force of inertia currently acting on the particle.
