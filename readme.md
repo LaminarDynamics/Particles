@@ -26,3 +26,5 @@ Users can select if vectors are displayed (show_vectors) or to allow collisions 
 ![image](particles.png)
 
 Sauron occurred accidentally in previous versions of the main program, so I decided to keep him. All hail the all-seeing Sauron.
+
+![image](sauron.png)
