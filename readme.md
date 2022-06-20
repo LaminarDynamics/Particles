@@ -12,6 +12,7 @@ If selected, there are several lines (Vectors) that are drawn off the particles.
 
 This project is inefficient, particularly when too many particles are being drawn. 
 There are options to allow mass and particle collisions; if this is set to "False" collisions are not allowed and the particles will be removed upon impact with another particle or the central mass. (A red circle "BOOOM" indicates this) 
+Pygame is required
 
 
 # Screenshots
@@ -19,7 +20,7 @@ There are options to allow mass and particle collisions; if this is set to "Fals
 Users can select if vectors are displayed (show_vectors) or to allow collisions by changing the boolean in the code like a neanderthal
 ![image](user_options.png)
 
-Particles (Vector Lines = True)
+----------------------------------------------------------------
 ![image](particles.png)
 
 Sauron occurred accidentally in previous versions of the main program, so I decided to keep him. All hail the all-seeing Sauron.
