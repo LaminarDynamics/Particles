@@ -12,6 +12,7 @@ If selected, there are several lines (Vectors) that are drawn off the particles.
 
 This project is inefficient, particularly when too many particles are being drawn. 
 There are options to allow mass and particle collisions; if this is set to "False" collisions are not allowed and the particles will be removed upon impact with another particle or the central mass. (A red circle "BOOOM" indicates this) 
+
 Pygame is required
 
 
