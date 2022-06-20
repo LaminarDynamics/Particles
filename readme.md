@@ -20,11 +20,11 @@ Pygame is required
 
 Users can select if vectors are displayed (show_vectors) or to allow collisions by changing the boolean in the code like a neanderthal
 
-![image](user_options.png)
+![image](screenshots/user_options.png)
 
 ----------------------------------------------------------------
-![image](particles.png)
+![image](screenshots/particles.png)
 
 Sauron occurred accidentally in previous versions of the main program, so I decided to keep him. All hail the all-seeing Sauron.
 
-![image](sauron.png)
+![image](screenshots/sauron.png)
