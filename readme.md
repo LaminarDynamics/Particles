@@ -15,8 +15,11 @@ There are options to allow mass and particle collisions; if this is set to "Fals
 
 
 # Screenshots
-![Users can select if vectors are displayed by changing the boolean in the code like a neanderthal](user_options.png)
 
-![Particles (Vector Lines = True)](particles.png)
+# Users can select if vectors are displayed (show_vectors) or to allow collisions by changing the boolean in the code like a neanderthal
+![image](user_options.png)
+
+# Particles (Vector Lines = True)
+![image](particles.png)
 
 Sauron occurred accidentally in previous versions of the main program, so I decided to keep him. All hail the all-seeing Sauron.
