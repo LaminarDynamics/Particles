@@ -28,7 +28,7 @@ particles = []
 particle_count = 100
 allow_mass_collision = True
 allow_particle_collision = True
-show_vectors = False
+show_vectors = True
 
 
 ######################################################################
